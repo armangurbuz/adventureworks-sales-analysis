@@ -1,0 +1,40 @@
+SchemaName,TableName,TableType
+dbo,AdventureWorksDWBuildVersion,BASE TABLE
+dbo,DatabaseLog,BASE TABLE
+dbo,DimAccount,BASE TABLE
+dbo,DimCurrency,BASE TABLE
+dbo,DimCustomer,BASE TABLE
+dbo,DimDate,BASE TABLE
+dbo,DimDepartmentGroup,BASE TABLE
+dbo,DimEmployee,BASE TABLE
+dbo,DimGeography,BASE TABLE
+dbo,DimOrganization,BASE TABLE
+dbo,DimProduct,BASE TABLE
+dbo,DimProductCategory,BASE TABLE
+dbo,DimProductSubcategory,BASE TABLE
+dbo,DimPromotion,BASE TABLE
+dbo,DimReseller,BASE TABLE
+dbo,DimSalesReason,BASE TABLE
+dbo,DimSalesTerritory,BASE TABLE
+dbo,DimScenario,BASE TABLE
+dbo,FactAdditionalInternationalProductDescription,BASE TABLE
+dbo,FactCallCenter,BASE TABLE
+dbo,FactCurrencyRate,BASE TABLE
+dbo,FactFinance,BASE TABLE
+dbo,FactInternetSales,BASE TABLE
+dbo,FactInternetSales_CS,BASE TABLE
+dbo,FactInternetSales_HP,BASE TABLE
+dbo,FactInternetSales_RS,BASE TABLE
+dbo,FactInternetSalesReason,BASE TABLE
+dbo,FactProductInventory,BASE TABLE
+dbo,FactResellerSales,BASE TABLE
+dbo,FactSalesQuota,BASE TABLE
+dbo,FactSurveyResponse,BASE TABLE
+dbo,NewFactCurrencyRate,BASE TABLE
+dbo,ProspectiveBuyer,BASE TABLE
+dbo,sysdiagrams,BASE TABLE
+dbo,vAssocSeqLineItems,VIEW
+dbo,vAssocSeqOrders,VIEW
+dbo,vDMPrep,VIEW
+dbo,vTargetMail,VIEW
+dbo,vTimeSeries,VIEW
